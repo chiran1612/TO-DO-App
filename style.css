@@ -46,3 +46,9 @@ img{
     margin: 20px;
     font-family: 'Tapestry', cursive;
 }
+body>img{
+    height: 10px;
+    width: 10px;
+    flex: 1;
+border: 2px solid aqua;
+}
