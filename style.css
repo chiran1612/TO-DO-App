@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Tapestry&display=swap');
+@import url("https://colorhunt.co/palette/f4bfbfffd9c0faf0d78cc0de");
 *{
     margin: 0px;
     padding: 0px;
@@ -9,11 +10,11 @@ body{
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
-    background-image: url("Back_image.jpg");
+    background-image: url("keepupgdwk.gif");
   
 }
 input{
-    margin: 10%;
+    margin: 2%;
     font-size: 22px;
     line-height: 1.6;
     height: 55px;
@@ -21,8 +22,8 @@ input{
     border-radius: 30px;
     padding: 22px; 
     outline: none;  
-    background-color: #075907;
-    color:#f2f8f8;
+    background-color: #5584AC;
+    color:#FAFFAF;
 }
 li{
     /* itni heght toh rahna varna badha lena content ke hissab se */
@@ -35,7 +36,7 @@ li{
     display: flex;
     justify-content: space-between;
     font-size: 1.25rem;
-    background-color: beige; 
+    background-color: #95D1CC; 
     margin: 0.25rem;
     word-break: break-all;
 }
@@ -46,4 +47,8 @@ img{
 .toptext{
     margin: 20px;
     font-family: 'Tapestry', cursive;
+}
+h1{
+    color:#362706;
+    font-size: 50px;
 }
