@@ -10,7 +10,7 @@ body{
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
-    background-image: url("keepupgdwk.gif");
+    background-color: #F9F2ED;
   
 }
 input{
@@ -22,8 +22,8 @@ input{
     border-radius: 30px;
     padding: 22px; 
     outline: none;  
-    background-color: #5584AC;
-    color:#FAFFAF;
+    background-color: #3AB0FF;
+    color:black;
 }
 li{
     /* itni heght toh rahna varna badha lena content ke hissab se */
@@ -36,7 +36,7 @@ li{
     display: flex;
     justify-content: space-between;
     font-size: 1.25rem;
-    background-color: #95D1CC; 
+    background-color: #FFB562; 
     margin: 0.25rem;
     word-break: break-all;
 }
